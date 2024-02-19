@@ -1,5 +1,7 @@
 # Car_Rental_System
 
+Mini ProJect OOP Concept
+
 Explore the world of car rentals with the Car Rental System, a Java-based console application
 
 **Rent a Car**: You can pick a car from a list and rent it for a certain time.
